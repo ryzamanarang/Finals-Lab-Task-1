@@ -1,5 +1,4 @@
-# [Finals Lab Task 1 - Creating a Database Using MySQL Workbench](https://github.com/user-attachments/files/19615214/Soguilon.Carl.Asnef.B.FINALS.EDM.SQL.docx)
-- This portfolio is about learning MySQL basics through a multi-level company database. It includes tasks like writing SQL queries, creating table structures, and making an ER diagram or relational schema. The portfolio will also include SQL copies of the database and table structures to show how the database is built.
+# [Finals Lab Task 1 - Creating a Database Using MySQL Workbench](https://github.com/user-attachments/files/19641889/Finals.Lab.Task.1-.Manarang.docx)
 
 ## Step by Step Process
 1. Create the `employees` table:
@@ -27,35 +26,35 @@
 # Screenshots
 ## Query Statements
 1. Employee Table
-- ![Image](https://github.com/user-attachments/assets/9d797229-c578-4a9d-9e41-9eec050611b9)
+- ![Image](https://github.com/user-attachments/assets/369fd8f4-553d-45b4-b587-7b2b21d2ad25)
    
 2. Department Table
-- ![Image](https://github.com/user-attachments/assets/3943d3ae-7b16-4ac8-9fcd-ea3a935107bf)
+- ![Image](https://github.com/user-attachments/assets/765c90aa-5ec1-4dbd-a097-8fa0de8bd384)
    
 3. Employee Department Table
-- ![Image](https://github.com/user-attachments/assets/7c0d9e00-be51-4f32-bf15-b47c1db7cfbe)
+- ![Image](https://github.com/user-attachments/assets/1ef78648-8100-472c-b45b-c608a1c1f38f)
   
 4. Employee Project Table
-- ![Image](https://github.com/user-attachments/assets/2065f412-b9f0-45f8-9bd7-bbe88298b244)
+- ![Image](https://github.com/user-attachments/assets/09509270-eb47-4b99-a136-d9f406fd6013)
    
 5. Manager Table
-- ![Image](https://github.com/user-attachments/assets/11885937-bb10-4287-ada6-c3b0074dfd21)
+- ![Image](https://github.com/user-attachments/assets/2c8f3382-4bb1-4cae-abf7-0b7d98b44026)
 
 ## Table Structure
 1. Employee Table
-- ![Image](https://github.com/user-attachments/assets/bfa3e1a0-31e5-4f50-96a7-ab2e44f8fa38)
+- ![Image](https://github.com/user-attachments/assets/43bfdb48-14ee-40de-97a8-da5fab310119)
    
 2. Department Table
-- ![Image](https://github.com/user-attachments/assets/09c1e839-6684-4c39-a5e4-a8cd09fc1345)
+- ![Image](https://github.com/user-attachments/assets/f4a9f09e-ee14-44cd-a0a8-721ef7f0aed7)
    
 3. Employee Department Table
-- ![Image](https://github.com/user-attachments/assets/42f83cf1-3f70-4b4f-88f4-c333284783e0)
+- ![Image](https://github.com/user-attachments/assets/8d4e977d-808a-478d-8e45-908475ef4316)
    
 4. Employee Project Table
-- ![Image](https://github.com/user-attachments/assets/dd393af6-c71a-4beb-b3c8-29dc97dae61f)
+- ![Image](https://github.com/user-attachments/assets/533b25c9-f0cf-4626-abe0-cfa48d28b128)
    
 5. Manager Table
-- ![Image](https://github.com/user-attachments/assets/0b357143-4fda-4059-8235-1444b933d6ae)
+- ![Image](https://github.com/user-attachments/assets/1d01e9ee-1bde-4906-9544-279bbd4b302a)
 
 ## EER Diagram 
-- ![Image](https://github.com/user-attachments/assets/b8c42cda-fe0b-420f-92de-d9a7e531f3f3)
+- ![Image](https://github.com/user-attachments/assets/4e949ab5-55e8-404b-a476-4fdc07cfc11d)
